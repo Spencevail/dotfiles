@@ -4,7 +4,7 @@
 	"show_line_endings": true,
 	"default_encoding": "UTF-8",
 	"show_encoding": true,
-	"detect_indentation": false,
+	"detect_indentation": true,
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": false,
 	"file_exclude_patterns":
@@ -34,7 +34,7 @@
 		80
 	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
